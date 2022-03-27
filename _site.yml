@@ -1,0 +1,12 @@
+name: "learn_code"
+title: "Oumar Learn To Code"
+description: |
+  Oumar Learn To Code
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
