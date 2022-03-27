@@ -1,7 +1,8 @@
 name: "learn_code"
 title: "Oumar Learn To Code"
+theme: oltc_theme.css
 description: |
-  Oumar Learn To Code
+  Learning Programming: R and Friends
 output_dir: "_site"
 navbar:
   right:

@@ -1,7 +1,15 @@
 ---
 title: "Oumar Learn To Code"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "school_mali.jpeg"
+links:
+  - label: LinkdIn
+    url: "https://www.linkedin.com/in/diallooumarou/"
+  - label: Twitter
+    url: "https://twitter.com/birusod"
+  - label: GitHub
+    url: "https://github.com/birusod"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
